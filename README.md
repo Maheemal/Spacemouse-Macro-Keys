@@ -12,7 +12,7 @@
 
 image
 
-Customizable macro pad for users of 3DConnexion SpaceMouse Wireless. Adds 12 easy to reach customizable buttons to the side of your SpaceMouse
+Customizable macro pad for users of 3DConnexion SpaceMouse Wireless. Adds 12 easy-to-reach customizable buttons to the side of your SpaceMouse
 
 
 
@@ -20,17 +20,17 @@ Customizable macro pad for users of 3DConnexion SpaceMouse Wireless. Adds 12 eas
 
 ## :battery: Making
 
-If you are just looking to make one as is, download the latest release and follow the Build instructions on ./prod. requires decent soldering skills.
+If you are just looking to make one as is, download the latest release and follow the Build instructions on ```./Production Files```. Requires decent soldering skills.
 
-If you would like to purchase one pre built, please contact me : hello@maheemal.com
+If you would like to purchase one, please contact via [hello@maheemal.com](mailto:hello@maheemal.com)
 
 
 
 ## :clipboard: Licence 
 
-**Non commercial use** - free to use. feel free to buy me a coffee ;)
+**Non-commercial use** - free to use. feel free to buy me a coffee ;)
 
-**Commercial use** - If you are a freelancer, professional, plan to use this in service of paid work or building one for someone other than yourself, please email me beforehand : hello@maheemal.com
+**Commercial use** - If you are a freelancer / professional / plan to use this in service of paid work / building one for someone other than yourself, please email me beforehand: [hello@maheemal.com](mailto:hello@maheemal.com)
 
 
 
@@ -40,12 +40,12 @@ If you would like to purchase one pre built, please contact me : hello@maheemal.
 Contributions are always welcome!
 
 ### PCB To-Do
-- [ ] Remove vias underneath Seed tk
-- [ ] correct power out for SpaceMouse charging
+- [ ] Remove vias underneath XIAO-RP2040
+- [ ] Correct power out for SpaceMouse charging
 ### Enclosure To-Do
 - [ ] Add SpaceMouse charging compatibility
 ### Code To-Do
-- [ ] Make key assignment program specific
+- [ ] Make key bindings program specific
 - [ ] Add additional keyboard layouts
 ### Wishlist
 - [ ] Make device wireless
