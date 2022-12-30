@@ -10,7 +10,8 @@
 
 ## :blue_book: Introduction
 
-image
+![IMG_20221230_192413](https://user-images.githubusercontent.com/8228450/210106509-c89a8b12-855b-44f7-b956-a1ccaef7c48a.jpg)
+
 
 Customizable macro pad for users of 3DConnexion SpaceMouse Wireless. Adds 12 easy-to-reach customizable buttons to the side of your SpaceMouse
 
@@ -28,7 +29,7 @@ If you would like to purchase one, please contact via [hello@maheemal.com](mailt
 
 ## :clipboard: Licence 
 
-**Non-commercial use** - free to use. feel free to buy me a coffee ;)
+**Non-commercial use** - Free to use. Feel free to buy me a coffee ~> <a href="https://www.buymeacoffee.com/MaheemalKB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
 
 **Commercial use** - If you are a freelancer / professional / plan to use this in service of paid work / building one for someone other than yourself, please email me beforehand: [hello@maheemal.com](mailto:hello@maheemal.com)
 
