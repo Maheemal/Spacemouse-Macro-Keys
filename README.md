@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 ## :blue_book: Introduction
 
 image
@@ -31,33 +35,20 @@ If you would like to purchase one pre built, please contact me : hello@maheemal.
 
 
 
-<details>
-  <summary>## :white_check_mark: To-Do</summary>
-  <p>
-    Contributions are always welcome!
+## :white_check_mark: To-Do
 
-​    
-​    ### PCB  To-Do
-​    
-    	- Remove vias underneath Seed tk
-    	- correct power out for SpaceMouse charging
-    
-    ### Enclosure To-Do
+Contributions are always welcome!
 
-​		-  Add SpaceMouse charging compatibility
-
-	### Code To-Do
-	
-	### Wishlist
-	
-		- Make device wireless
-		- Make key assignment program specific
-  </p>
-</details>
-
-
-
-
+### PCB To-Do
+- [ ] Remove vias underneath Seed tk
+- [ ] correct power out for SpaceMouse charging
+### Enclosure To-Do
+- [ ] Add SpaceMouse charging compatibility
+### Code To-Do
+- [ ] Make key assignment program specific
+- [ ] Add additional keyboard layouts
+### Wishlist
+- [ ] Make device wireless
 
 
 
