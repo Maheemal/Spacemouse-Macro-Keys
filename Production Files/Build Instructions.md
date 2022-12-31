@@ -3,6 +3,9 @@
 ### Not a Step by step guide!
 
 
+![Spacemouse Advance Main](https://user-images.githubusercontent.com/8228450/210141123-5c5fa4ff-ebef-4b3c-94a9-a4487e29df29.jpg)
+
+
 
 ## BoM
 
