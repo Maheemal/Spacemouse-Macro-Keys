@@ -17,12 +17,12 @@
 | 04   | [PCA9505](https://www.nxp.com/docs/en/data-sheet/PCA9505_9506.pdf) | 1        | In short supply. I purchased mine on [AliExpress](https://www.aliexpress.com) |
 | 05   | Kailh LP Switch                                              | 12       | I used 57gf blue switches. feel free to use different speck keys<br />Datasheet can be found in ```./Source Files/Datasheets``` |
 | 06   | Kailh LP Keycaps                                             | 12       | I went with "Black-chocolate". Personal preference           |
-| 07   | M3 Brass Threaded Insert                                     | 11       | To be inserted into the 3D Printed "SM_MacroPad Top Shell"  |
+| 07   | M3 Brass Threaded Insert                                     | 11       | To be inserted into the 3D Printed "SM_MacroPad Top Shell"   |
 | 08   | M3 x 6mm Countersunk Screws                                  | 11       |                                                              |
-| 09   | Bottom Rubber Pad                                            | 1        | Grippy layer so the device doesn't slide around when using. I laser-cut mine from TK.<br />Alternatively, use suitable self-adhesive rubber feat |
-| 10   | bottom pad                                                   | 1        | Can be laser cut (TK mm) and countersunk manually, or 3D printed |
-| 11   | Light block (optional)                                       | 1        | Lasercut (tk mm). minimises light bleed                      |
-| 12   | label sticker (Optional)                                     | 1        | engraved with TK                                             |
+| 09   | SM_MacroPad Bottom Rubber Pad<br />```./Production Files/Enclosure``` | 1        | Grippy layer so the device doesn't slide around when using. I laser-cut mine from Self Adhesive Foam Sheets.<br />Alternatively, use suitable self-adhesive rubber feat |
+| 10   | SM_MacroPad Bottom<br />```./Production Files/Enclosure```   | 1        | Can be laser cut (2 mm) and countersunk manually, or 3D printed |
+| 11   | SM_MacroPad Light Guide (Optional)<br />```./Production Files/Enclosure``` | 1        | Laser-cut (2 mm) or 3D Print. Minimises light bleed          |
+| 12   | Label Outline (Optional)<br />```./Production Files/Enclosure``` | 1        | Outline for product_info/logo sticker                        |
 
 
 
