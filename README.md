@@ -45,6 +45,7 @@ Contributions are always welcome!
 ### PCB To-Do
 - [ ] Remove vias underneath XIAO-RP2040
 - [ ] Correct power out for SpaceMouse charging
+- [ ] Set LEDs to drain to I/O pins (currently can only power Red LEDs)
 ### Enclosure To-Do
 - [ ] Add SpaceMouse charging compatibility
 ### Code To-Do
