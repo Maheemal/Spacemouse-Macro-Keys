@@ -3,7 +3,7 @@
 
  
 // Key assignments from switch 1 to 12
-char Key_Assignment_Array[] = {KEY_LEFT_CTRL, KEY_ESC, KEY_RETURN, KEY_F16, KEY_F17, KEY_F18, KEY_F19, KEY_F20, KEY_F21, KEY_F22, KEY_F23, KEY_F24};
+char Key_Assignment_Array[] = {KEY_F13, KEY_F14, KEY_F15, KEY_F16, KEY_F17, KEY_F18, KEY_F19, KEY_F20, KEY_F21, KEY_F22, KEY_F23, KEY_F24};
 
 // LEDs under each switch 1 to 12
 int LED_Array[] = {14, 12, 10, 16, 8, 6, 34, 19, 4, 32, 30, 27};
