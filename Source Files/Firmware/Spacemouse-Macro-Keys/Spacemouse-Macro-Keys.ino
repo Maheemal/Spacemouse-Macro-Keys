@@ -11,7 +11,7 @@ int LED_Array[] = {14, 12, 10, 16, 8, 6, 34, 19, 4, 32, 30, 27};
 // GPIO pin for each switch on the I/O expander from 1 to 12
 int Switch_Array[] = {13, 11, 9, 15, 7, 5, 33, 18, 3, 31, 29, 28};
 
-
+bool is_pressed[12];
 
 PCA9505_06 GPIO;
 
@@ -22,7 +22,8 @@ void setup() {
 
   for (int i = 0; i < 12; i++){
     GPIO.pinMode(LED_Array[i], OUTPUT);   // configure LED_i as output
-    GPIO.pinMode(Switch_Array[i], INPUT); // configure SWITCH_i as output   
+    GPIO.pinMode(Switch_Array[i], INPUT); // configure SWITCH_i as output
+    is_pressed[i] = false;
   }
   
   Keyboard.begin();
@@ -33,13 +34,19 @@ void loop() {
 
   for (int i = 0; i < 12; i++){                     //scans through switches 1 to 12
     if (GPIO.digitalRead(Switch_Array[i]) == LOW){  // If SWITCH_i is pressed
-      GPIO.digitalWrite(LED_Array[i], HIGH);        // switch on LED_i
-      Keyboard.press(Key_Assignment_Array[i]);      // Press KEY_i
+      if (!is_pressed[i]) {
+       GPIO.digitalWrite(LED_Array[i], HIGH);        // switch on LED_i
+       Keyboard.press(Key_Assignment_Array[i]);      // Press KEY_i
+       is_pressed[i] = true;
+      }
     }
 
     else {
+     if (is_pressed[i]) {
       GPIO.digitalWrite(LED_Array[i], LOW);         // switch off LED_i
       Keyboard.release(Key_Assignment_Array[i]);    // release KEY_i
+      is_pressed[i] = false;
+     }
     } 
   }
 }
