@@ -21,10 +21,9 @@ Customizable macro pad for users of 3DConnexion SpaceMouse Wireless. Adds 12 eas
 
 ## :battery: Making
 
-If you are just looking to make one as is, download the latest release and follow the Build instructions on ```./Production Files```. Requires decent soldering skills.
+If you are just looking to make one as is, download the latest release and follow the Build instructions on ```./Production Files```. Requires decent soldering skills. Alternatively, you can order the "mostly" assembled PCB from [PCBWay](https://www.pcbway.com/project/shareproject/SpaceMouse_Macro_Pad_0eddd3f1.html).
 
 If you would like to purchase one, please contact via [hello@maheemal.com](mailto:hello@maheemal.com)
-
 
 
 ## :clipboard: Licence 
